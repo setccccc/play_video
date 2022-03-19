@@ -2,6 +2,6 @@
 
 # video player based on [JavaCV](https://github.com/bytedeco/javacv)
 
-play video and audio
+play video and audio using javacv.
 
 * test at jdk1.8
